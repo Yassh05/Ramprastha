@@ -15,7 +15,9 @@ class PropertiesManager {
                 parking: 1,
                 type: "Apartment",
                 status: "Ready to Move",
-                description: "Modern high-rise apartments with panoramic city views and premium amenities.",
+                description: "Designed by renowned and awarded architects, Nivedita and Uday Pande Consultants, The Edge Towers are the largest group housing in Ramprastha City and lies closest to the Dwarka Expressway. Comprising of 1,272 apartments.
+
+",
                 features: ["Swimming Pool", "Gym", "Club House", "24/7 Security", "Power Backup", "Parking"]
             },
             {
@@ -30,7 +32,7 @@ class PropertiesManager {
                 parking: 1,
                 type: "Apartment",
                 status: "Under Construction",
-                description: "Contemporary living spaces designed for young professionals and growing families.",
+                description: "Ramprastha presents to you Rise, the uniquely designed and fully air-conditioned 3bhk condominiums situated close to the main clubhouse of the Ramprastha City. Based on the open living concept, Rise takes design and luxury to a completely new level.",
                 features: ["Modern Kitchen", "Balcony", "Security", "Parking", "Green Spaces", "Shopping Complex"]
             },
          {
@@ -45,7 +47,7 @@ class PropertiesManager {
                 parking: 1,
                 type: "Apartment",
                 status: "Ready to Move",
-                description: "Modern high-rise apartments with panoramic city views and premium amenities.",
+                description: "Primera are premium, air–conditioned 3bhk apartments located in Ramprastha City on the Dwarka Expressway. Primera boasts of superior construction quality, minimalistic architecture, and many ultra-modern facilities. It carries forward Ramprastha's legacy of providing luxury and quality homes at attractive prices.",
                 features: ["Swimming Pool", "Gym", "Club House", "24/7 Security", "Power Backup", "Parking"]
             },
             {
@@ -75,7 +77,7 @@ class PropertiesManager {
                 parking: 2,
                 type: "Apartment",
                 status: "Ready to Move",
-                description: "Spacious luxury apartments with breathtaking views and world-class amenities.",
+                description: "Skyz is the first podium level, air-conditioned 3bhk condominiums offered in Ramprastha City. Skyz is another great example of Ramprastha's vision to offer luxurious and modern living at attractive prices.",
                 features: ["Swimming Pool", "Spa", "Business Center", "Children's Play Area", "Landscaped Gardens", "Concierge"]
             },
          {
