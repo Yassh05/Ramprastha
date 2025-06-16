@@ -33,8 +33,23 @@ class PropertiesManager {
                 description: "Contemporary living spaces designed for young professionals and growing families.",
                 features: ["Modern Kitchen", "Balcony", "Security", "Parking", "Green Spaces", "Shopping Complex"]
             },
-            {
+         {
                 id: 3,
+                title: "Ramprastha Primera",
+                location: "Sector 37D, Gurgaon",
+                price: "₹1.2 Cr - ₹2.8 Cr",
+                image: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=800",
+                beds: 3,
+                baths: 2,
+                area: 1450,
+                parking: 1,
+                type: "Apartment",
+                status: "Ready to Move",
+                description: "Modern high-rise apartments with panoramic city views and premium amenities.",
+                features: ["Swimming Pool", "Gym", "Club House", "24/7 Security", "Power Backup", "Parking"]
+            },
+            {
+                id: 4,
                 title: "Ramprastha The View",
                 location: "Sector 37D, Gurgaon",
                 price: "₹1.8 Cr - ₹3.2 Cr",
@@ -48,8 +63,38 @@ class PropertiesManager {
                 description: "Spacious luxury apartments with breathtaking views and world-class amenities.",
                 features: ["Swimming Pool", "Spa", "Business Center", "Children's Play Area", "Landscaped Gardens", "Concierge"]
             },
+         {
+                id: 5,
+                title: "Ramprastha SKYZ",
+                location: "Sector 37D, Gurgaon",
+                price: "₹1.8 Cr - ₹3.2 Cr",
+                image: "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress&cs=tinysrgb&w=800",
+                beds: 4,
+                baths: 3,
+                area: 2100,
+                parking: 2,
+                type: "Apartment",
+                status: "Ready to Move",
+                description: "Spacious luxury apartments with breathtaking views and world-class amenities.",
+                features: ["Swimming Pool", "Spa", "Business Center", "Children's Play Area", "Landscaped Gardens", "Concierge"]
+            },
+         {
+                id: 6,
+                title: "Ramprastha Atrium",
+                location: "Sector 37D, Gurgaon",
+                price: "₹1.8 Cr - ₹3.2 Cr",
+                image: "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress&cs=tinysrgb&w=800",
+                beds: 4,
+                baths: 3,
+                area: 2100,
+                parking: 2,
+                type: "Apartment",
+                status: "Ready to Move",
+                description: "Spacious luxury apartments with breathtaking views and world-class amenities.",
+                features: ["Swimming Pool", "Spa", "Business Center", "Children's Play Area", "Landscaped Gardens", "Concierge"]
+            },
             {
-                id: 4,
+                id: 7,
                 title: "Ramprastha Platinum",
                 location: "Sector 37D, Gurgaon",
                 price: "₹2.5 Cr - ₹4.8 Cr",
@@ -64,7 +109,7 @@ class PropertiesManager {
                 features: ["Private Terrace", "Jacuzzi", "Home Theater", "Wine Cellar", "Private Elevator", "Butler Service"]
             },
             {
-                id: 5,
+                id: 8,
                 title: "Ramprastha City",
                 location: "Sector 37D, Gurgaon",
                 price: "₹95 Lac - ₹1.8 Cr",
@@ -79,7 +124,7 @@ class PropertiesManager {
                 features: ["Shopping Mall", "School", "Hospital", "Metro Connectivity", "Parks", "Sports Complex"]
             },
             {
-                id: 6,
+                id: 9,
                 title: "Ramprastha Prima",
                 location: "Sector 37D, Gurgaon",
                 price: "₹1.5 Cr - ₹2.9 Cr",
