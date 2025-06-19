@@ -68,7 +68,7 @@ class PropertiesManager {
                 title: "Ramprastha SKYZ",
                 location: "Sector 37D, Gurgaon",
                 price: "₹1.8 Cr - ₹3.2 Cr",
-                image: "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress&cs=tinysrgb&w=800",
+                image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800",
                 beds: 4,
                 baths: 3,
                 area: 2100,
